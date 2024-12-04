@@ -1,6 +1,6 @@
 # I _am _Laura 🐐🐕 (she/her)♀️
 
-I talk a little bit about myself on my [website](lauralongoria.netlify.app/) if you wish to check it out. Here's a few things I plan to work on/am working on now (listed by priority):
+I talk a little bit about myself on my [website](https://lauralongoria.netlify.app) if you wish to check it out. Here's a few things I plan to work on/am working on now (listed by priority):
 - Getting myself familiar with Godot again
 - App development with Flutter
 - Facial Recognition Profiled Smart Mirror
